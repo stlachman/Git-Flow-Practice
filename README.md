@@ -16,6 +16,8 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 - [ ] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## ADD your name here
+- Seth Lachman
 
 - Steve Rogers
 - Ryan Hamblin
+
